@@ -1,13 +1,40 @@
-# React + Vite
+# 🍴 Yumhub
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern React app to discover recipes by ingredients.  
+Powered by [TheMealDB API](https://www.themealdb.com/), Yumhub helps you cook something delicious with what you already have in your kitchen.
 
-Currently, two official plugins are available:
+👉 **Live Demo:** [yumhub-neon.vercel.app](https://yumhub-neon.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# Yumhub
+- 🔎 **Search Recipes by Ingredients** — Enter one or multiple ingredients (e.g., *chicken, rice*) to get matching recipes.  
+- 🎲 **Feeling Indecisive?** — Let Yumhub surprise you with a random recipe suggestion.  
+- 📖 **Detailed Recipe View** — Step-by-step instructions, ingredient breakdown, and cooking video links.  
+- 💾 **Recent Searches** — Quickly search again from past ingredients.  
+- 📱 **Responsive UI** — Clean, user-friendly design that works beautifully on desktop and mobile.  
+
+---
+
+## 🚀 Tech Stack
+
+- **Frontend:** React + React Router  
+- **Styling:** Tailwind CSS  
+- **API:** [TheMealDB](https://www.themealdb.com/api.php)  
+
+---
+
+## 📂 Project Structure
+
+The project folder structure is described in **`structure.txt`** for better clarity.  
+Please check that file if you want to understand how components and assets are organized.
+
+---
+
+## 🛠️ Installation & Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/yumhub.git
+   cd yumhub
