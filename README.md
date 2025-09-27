@@ -1,4 +1,4 @@
-# 🍴 Yumhub (Candidate ID : Naukri0925)
+# 🍴 Yumhub
 
 A simple and interactive recipe finder built with **React + Vite**.\
 Search recipes by ingredient, view detailed instructions, and save your
